@@ -1,4 +1,7 @@
+<img width="674" height="446" alt="image" src="https://github.com/user-attachments/assets/1332a5bf-95a3-4948-b3b4-e5f1fa77d191" />
+
 # Image-Annotation-CVAT-Electrical-Components-
+
 ---
 
 # 📄 Image Annotation README (CVAT – Electrical Components)
